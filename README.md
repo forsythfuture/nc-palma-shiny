@@ -8,4 +8,4 @@ We also adjuted post-tax household incomes based on household size. For the adju
 
 This repo contains all the files necessary to run the R shiny app located at: https://forsythfutures.shinyapps.io/nc_palma_ratio/.  The `app.R` file is the only file the needs to be ran.
 
-This repo does not contain the scripts used to calculate Palma ratios from household incomes. These scripts are in a different [GitHub repo](https://github.com/forsythfutures/palma).
+This repo does not contain the scripts used to calculate Palma ratios from household incomes. These scripts are in a different [GitHub repo](https://github.com/forsythfuture/palma-ratio).

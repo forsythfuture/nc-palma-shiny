@@ -4,7 +4,7 @@ library(leaflet)
 library(htmltools)
 library(plotly)
 
-# read in full Palma data
+# read in full palma data
 palma_full <- readRDS('palma_full.Rda') %>%
   # rename puma to PUMA
   mutate(type = str_replace_all(type, 'puma', 'PUMA'))

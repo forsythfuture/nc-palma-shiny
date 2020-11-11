@@ -6,6 +6,4 @@ Income data comes from the US Census's [Public Use Microdata Areas (PUMA)](https
 
 We also adjuted post-tax household incomes based on household size. For the adjustments, we used the US Census's [equivalency scale](https://www.census.gov/topics/income-poverty/income-inequality/about/metrics/equivalence.html).
 
-This repo contains all the files necessary to run the R shiny app located at: https://forsythfutures.shinyapps.io/nc_palma_ratio/.  The `app.R` file is the only file the needs to be ran.
-
-This repo does not contain the scripts used to calculate Palma ratios from household incomes. These scripts are in a different [GitHub repo](https://github.com/forsythfuture/palma-ratio).
+This repo contains all the files necessary to run the R shiny app located at: https://shanejorr.shinyapps.io/nc-palma-shiny/.  The `app.R` file is the only file the needs to be ran.
